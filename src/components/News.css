@@ -1,0 +1,18 @@
+.text-danger{
+    font-size: .85rem;
+    margin: 0;
+}
+
+.field{
+    border-color: #e20b0b;
+}
+
+.field:focus {
+    border-color: #e20b0b !important;
+    box-shadow: 0 0 0 0.2rem rgba(239, 50, 50, 0.25) !important;
+} 
+
+.image{
+    width: 50px;
+    height: 50px;
+}
